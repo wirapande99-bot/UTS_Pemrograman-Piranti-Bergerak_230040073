@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Sage Green Palette -->
+    <color name="sage_primary">#8A9A5B</color>
+    <color name="sage_light">#B2AC88</color>
+    <color name="sage_dark">#556B2F</color>
+    <color name="sage_background">#F0F2EB</color>
+    
+    <!-- Keeping these for compatibility or replacing them -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#8A9A5B</color> <!-- Replaced with Sage -->
+    <color name="purple_700">#556B2F</color> <!-- Replaced with Sage Dark -->
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+</resources>
